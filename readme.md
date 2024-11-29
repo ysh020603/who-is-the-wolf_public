@@ -32,8 +32,6 @@ The project consists of three parts
 - streamlit == 1.38.0 
 - python-dotenv == 1.0.1
 
-### File introduction
-
 
 ## demo
 ![demo1](pic/demo1.png)
